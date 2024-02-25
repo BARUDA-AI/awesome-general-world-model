@@ -5,7 +5,10 @@
 ### Introduction
 This repository contains a collection of resources and papers on ***General World Model***.
 
-## Review Paper
-[13 Feb 2024] **World Model on Million-Length Video and Language with RingAttention** \
-Hao Liu*,  Wilson Yan*,  Matei Zaharia,  Pieter Abbeel  \
-*Arxiv* [[Paper](https://arxiv.org/abs/2402.08268)]
+**Table Of Contents**
+* [Paper](#paper)
+
+## Paper
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
+| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| **World Model on Million-Length Video and Language with RingAttention** | *Arxiv* [[Paper](https://arxiv.org/abs/2402.08268)] | |
