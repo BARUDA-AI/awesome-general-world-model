@@ -12,3 +12,4 @@ This repository contains a collection of resources and papers on ***General Worl
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | **World Model on Million-Length Video and Language with RingAttention** | *Arxiv* [[Paper](https://arxiv.org/abs/2402.08268)] | |
+||||
